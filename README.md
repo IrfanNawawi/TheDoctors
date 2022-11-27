@@ -2,11 +2,11 @@
 Study Case Doctor App by kotlin with design pattern
 
 ## Preview
-<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/Screenshot_20221127-222434_TheDoctors.jpg" width=128 />&nbsp;
-<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/Screenshot_20221127-222500_TheDoctors.jpg" width=128 />&nbsp;
-<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/Screenshot_20221127-222509_TheDoctors.jpg" width=128 />&nbsp;
-<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/Screenshot_20221127-222514_TheDoctors.jpg" width=128 />&nbsp;
-<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/Screenshot_20221127-222551_TheDoctors.jpg" width=128 />&nbsp;
+<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/screenshot_thedoctors_1.jpg" width=128 />&nbsp;
+<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/screenshot_thedoctors_2.jpg" width=128 />&nbsp;
+<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/screenshot_thedoctors_3.jpg" width=128 />&nbsp;
+<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/screenshot_thedoctors_4.jpg" width=128 />&nbsp;
+<img src="https://github.com/IrfanNawawi/TheDoctors/blob/master/screenshot_thedoctors_5.jpg" width=128 />&nbsp;
 
 ## Features
 - [x] MVVM ([docs](https://github.com/IrfanNawawi/MahasiswaApp))
