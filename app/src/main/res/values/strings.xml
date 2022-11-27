@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TheDoctors</string>
+    <string name="txt_search">Cari Dokter ...</string>
+    <string name="txt_hello">Halo,</string>
+    <string name="txt_name_user">Altea Care</string>
+
+    <string name="txt_doctor">Dokter</string>
+    <string name="txt_hospital">Rumah Sakit</string>
+    <string name="txt_specialization">Spesialist</string>
+    <string name="txt_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string name="txt_home_background">Home Background</string>
+    <string name="txt_online">Online</string>
+    <string name="txt_offline">Offline</string>
+    <string name="txt_image_doctor">FotoDokter</string>
+
+    <string-array name="hospitals">
+        <item>Pilih Rumah Sakit</item>
+        <item>Mitra Keluarga Bintaro</item>
+        <item>Mitra Keluarga Gading Serpong</item>
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Pilih Spesialist</item>
+        <item>Dokter Umum</item>
+        <item>Anak</item>
+        <item>Penyakit Dalam</item>
+        <item>Kebidanan &amp; Kandungan</item>
+        <item>Bedah</item>
+        <item>Jantung &amp; Pem.Darah</item>
+        <item>Kulit &amp; Kelamin</item>
+    </string-array>
+</resources>
