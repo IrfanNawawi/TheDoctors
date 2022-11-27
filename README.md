@@ -16,4 +16,5 @@ Study Case Doctor App by kotlin with design pattern
 - [x] RX ([docs](https://github.com/ReactiveX/RxAndroid))
 - [x] Logging Interceptor ([docs](https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor))
 - [x] Koin ([docs](https://www.youtube.com/watch?v=EathumJlWh8&ab_channel=PhilippLackner))
+- [x] Animation ([docs](https://github.com/dicodingacademy/a352-android-intermediate-labs/tree/main/animation/LatihanMotionLayoutFinal))
 - [x] Testing liveData ([docs](https://github.com/dicodingacademy/a352-android-intermediate-labs/tree/main/advanced-testing/LatihanAdvancedTesting%20(livedata)))
